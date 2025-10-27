@@ -13,7 +13,7 @@ This repository is organized as follows:
 The following notebooks are provided:
 
 - :orange_book: ``__.ipynb``: notebook reproducing the evaluation results in the paper.
-- :orange_book: ``__preprocessing_notebook__.ipynb``: notebook used to preprocess the data in the paper.
+- :orange_book: ``__.ipynb``: notebook used to preprocess the data in the paper.
 
 ## Scripts
 The following scripts are provided:
