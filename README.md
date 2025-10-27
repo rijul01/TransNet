@@ -9,6 +9,8 @@ The following scripts are provided:
 - 📝: ``TransNet_train.py``: TransNet model code.
 - 📝: ``graph.py``: Graph construction code.
 - 📝: ``train_distributed.py``: Distributed training code.
+- 📝: ``evaluation.py``: Evaluation code.
+- 📝: ``preprocessing.py``: Preprocessing code that includes interpolation, Variational Mode Decomposition (VMD), and Principle Component Analysis (PCA).
 
 ## Getting started :
-To ensure the reproducibility of the results, we suggest using the `__.yml` file when creating an environment.
+To isntall the environment, we suggest using the `environment.yml` file when creating an environment.
