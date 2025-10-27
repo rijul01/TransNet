@@ -1,4 +1,4 @@
-name: /pscratch/sd/r/rdimri/conda_envs/gnn_env
+name: /conda_envs/gnn_env
 channels:
   - nvidia
   - pytorch
