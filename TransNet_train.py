@@ -214,7 +214,7 @@ class GraphProcessor:
         return batch_edge_index, edge_weights, edge_features   # torch.Size([2, 7932]) and torch.Size([32, 7932])
         
 
-class ADR_GNN(nn.Module):
+class TransNet(nn.Module):
     def __init__(self, input_features, n_stations, seq_length, pred_length, L, state_dim, hist_dim):
         super(ADR_GNN, self).__init__()
         
