@@ -19,7 +19,7 @@ import shutil
 import signal
 import sys
 
-from adrgnn_train import ADR_GNN, custom_loss
+from TransNet_train import TransNet, custom_loss
 
 # Global flag to track if the process received a signal
 received_signal = False
